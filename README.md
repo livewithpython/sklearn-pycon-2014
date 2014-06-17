@@ -7,6 +7,7 @@ This repository will contain presentation, data and other info associated with t
 
    * [python][python]
    * [pip][pip]
+   * [matplotlib][matplotlib]
 
 ### Repository
     
@@ -30,3 +31,4 @@ This repository will contain presentation, data and other info associated with t
 [ipython]: http://ipython.org/
 [python]: http://python.org/
 [pip]: https://github.com/pypa/pip
+[matplotlib]: https://github.com/rueckstiess/mtools/wiki/matplotlib-Installation-Guide
