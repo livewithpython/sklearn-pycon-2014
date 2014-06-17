@@ -4,15 +4,29 @@
 This repository will contain presentation, data and other info associated with talk on Intro to Machine Learning in Python in Pycon Dhaka 2014.
 
 ### Dependencies
-    * [pip][pip]
-    * [pyenv][pyenv]
-    * [virtualenv][virtualenv]
-    * [nginx][nginx]
+
+   * [python][python]
+   * [pip][pip]
+
+### Repository
+    
+   * ##### Download Project
+
+         git clone git@github.com:livewithpython/sklearn-pycon-2014.git
+         or
+         git clone https://github.com/livewithpython/sklearn-pycon-2014.git
+
+   * ##### Install Requirements
+
+         cd sklearn-pycon-2014
+         pip install -r requirements.txt
 
 
+   * ##### Run
+   
+         ipython notebook --pylab
 
-[cdb]: http://cdb.newscred.com/
+
+[ipython]: http://ipython.org/
 [python]: http://python.org/
-[django]: https://www.djangoproject.com/
-[backbone]: http://backbonejs.org/
-[marionette]: http://marionettejs.com/
+[pip]: https://github.com/pypa/pip
