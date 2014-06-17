@@ -25,7 +25,7 @@ This repository will contain presentation, data and other info associated with t
 
    * ##### Run
    
-         ipython notebook --pylab
+         ipython notebook --pylab=inline
 
 
 [ipython]: http://ipython.org/
